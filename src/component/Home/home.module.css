@@ -1,0 +1,11 @@
+.home_page {
+  width: 400px;
+  text-align: left;
+  margin: auto;
+  padding: 20px;
+  position: relative;
+  top: 30px;
+}
+.home_page_heading {
+  text-align: center;
+}

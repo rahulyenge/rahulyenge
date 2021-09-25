@@ -1,0 +1,16 @@
+.login_form {
+  width: 400px;
+  text-align: left;
+  margin: auto;
+  padding: 20px;
+  position: relative;
+  top: 30px;
+  border: 1px solid #c1c1c1;
+}
+.login_heading {
+  text-align: center;
+}
+.errormsg {
+  color: red;
+  font-weight: 600;
+}
